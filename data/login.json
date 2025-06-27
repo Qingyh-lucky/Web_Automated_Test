@@ -1,0 +1,17 @@
+{
+    "login_001":{"username":"18696578570",
+               "password":"123456",
+               "expect_result":"为了您的账号安全，请使用手机验证码登录"},
+    "login_002":{"username":"186965785",
+               "password":"Qyh666666",
+               "expect_result":"用户名或密码错误"},
+    "login_003":{"username":"186965785",
+                 "password":"",
+                 "expect_result":"用户名或密码错误"},
+    "login_004":{"username":"",
+                 "password":"123456",
+                 "expect_result":"用户名或密码错误"},
+    "login_0010":{"username":"18696578570",
+                 "password":"Qyh666666",
+                 "expect_result":"为了您的账号安全，请使用手机验证码登录"}
+}

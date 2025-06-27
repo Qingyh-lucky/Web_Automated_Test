@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"f07dbd12a7a9f474007bb47b47812b60","name":"买票测试","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}},{"uid":"125e6bc612e07176324ee8ccc5907252","name":"登录测试","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}

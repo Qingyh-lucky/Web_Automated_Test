@@ -1,0 +1,3 @@
+订单总额：¥576（车票价格：¥576，预收车票：¥0）
+关闭之前： <selenium.webdriver.edge.webdriver.WebDriver (session="afca436186df8767475a568d32f34c4f")>
+关闭之后： <selenium.webdriver.edge.webdriver.WebDriver (session="afca436186df8767475a568d32f34c4f")>

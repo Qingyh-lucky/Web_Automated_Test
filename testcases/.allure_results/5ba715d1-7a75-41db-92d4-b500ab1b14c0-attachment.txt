@@ -1,0 +1,2 @@
+INFO     root:test_login.py:77 测试完成: 用户名=18696578570, 密码=Qyh666666, 期望结果=, 实际结果=
+INFO     root:test_login.py:50 测试类清理完成

@@ -1,0 +1,2 @@
+关闭之前： <selenium.webdriver.edge.webdriver.WebDriver (session="768e8d69ea63eca6f8b74cf572ea487e")>
+关闭之后： <selenium.webdriver.edge.webdriver.WebDriver (session="768e8d69ea63eca6f8b74cf572ea487e")>
