@@ -90,8 +90,6 @@ class GetDriver:
 
             # 创建 Edge 驱动
             cls.driver = webdriver.Edge(options=options)
-            # 实例化浏览器
-            cls.driver = webdriver.Edge()
             # 最大化
             cls.driver.maximize_window()
             # 打开浏览器
