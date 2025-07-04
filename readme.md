@@ -10,7 +10,7 @@
 ![登录测试](https://github.com/user-attachments/assets/4d1006c7-22ac-41cb-8978-f19861cbc77e)
 
 ### 测试订票功能
-实现输入不同地方，不同时间，选择购买首次火车票获取票价信息；进入订单页面
+实现输入不同地方，不同时间，选择购买首次火车票获取票价信息；进入订单下单页面，获取该次订单信息;
 ![买票测试](https://github.com/user-attachments/assets/ff48ebbe-d324-46b7-ba86-60508bff3930)
 
 ### 使用 allure 生成测试报告
