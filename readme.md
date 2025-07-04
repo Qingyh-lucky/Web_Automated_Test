@@ -7,6 +7,7 @@
 1.实现多种异常场景（密码错误，未勾选协议等）
 2.测试买票功能
 3.使用 allure 生成测试报告
+![网页报告](https://github.com/user-attachments/assets/614baaab-c92a-4abd-8034-607281e17d88)
 
 更多功能，敬请期待。。。
 ## 配置
