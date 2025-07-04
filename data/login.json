@@ -12,6 +12,6 @@
                  "password":"123456",
                  "expect_result":"用户名或密码错误"},
     "login_0010":{"username":"18696578570",
-                 "password":"Qyh666666",
+                 "password":"******", //这里请输入正确的密码，需要提取注册
                  "expect_result":"为了您的账号安全，请使用手机验证码登录"}
 }
